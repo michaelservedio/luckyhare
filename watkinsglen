@@ -1,0 +1,71 @@
+{
+  "location": "Watkins Glen",
+  "as_of": "2026-10-11",
+  "window": {
+    "start": "2026-10-07",
+    "end": "2026-10-11"
+  },
+  "beers": [
+    {
+      "name": "Lucky Light",
+      "last_sold": "2026-10-11",
+      "days_sold_this_window": 5,
+      "quantity_sold_this_window": 266
+    },
+    {
+      "name": "Falcon Punch",
+      "last_sold": "2026-10-11",
+      "days_sold_this_window": 5,
+      "quantity_sold_this_window": 195
+    },
+    {
+      "name": "Live Action",
+      "last_sold": "2026-10-11",
+      "days_sold_this_window": 5,
+      "quantity_sold_this_window": 175
+    },
+    {
+      "name": "Ziggy Zaggy",
+      "last_sold": "2026-10-11",
+      "days_sold_this_window": 5,
+      "quantity_sold_this_window": 170
+    },
+    {
+      "name": "Milk Milk",
+      "last_sold": "2026-10-11",
+      "days_sold_this_window": 5,
+      "quantity_sold_this_window": 122
+    },
+    {
+      "name": "London Gentleman",
+      "last_sold": "2026-10-11",
+      "days_sold_this_window": 5,
+      "quantity_sold_this_window": 95
+    },
+    {
+      "name": "Draugr (Baltic Porter)",
+      "last_sold": "2026-10-11",
+      "days_sold_this_window": 5,
+      "quantity_sold_this_window": 74
+    },
+    {
+      "name": "Millennial Falcon",
+      "last_sold": "2026-10-11",
+      "days_sold_this_window": 5,
+      "quantity_sold_this_window": 65
+    },
+    {
+      "name": "Rock Hound",
+      "last_sold": "2026-10-11",
+      "days_sold_this_window": 5,
+      "quantity_sold_this_window": 49
+    },
+    {
+      "name": "I am the Liquor",
+      "last_sold": "2026-10-11",
+      "days_sold_this_window": 5,
+      "quantity_sold_this_window": 30
+    }
+  ],
+  "note": "Tap list reflects what was pouring as of Sunday, October 11. Our lineup changes often — give either taproom a call to check on a specific beer."
+}
